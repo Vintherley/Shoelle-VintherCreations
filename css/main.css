@@ -1,0 +1,11 @@
+:root{
+    --main-color:#00523D;
+    --CTA:#FFC53A;
+    --txt-on-dark:#EBFFFE;
+    --txt-on-white:#000000;
+
+}
+body{
+    margin: none;
+    padding: none;
+}
