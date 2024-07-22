@@ -95,6 +95,11 @@ header nav a:hover {
     color: white;
     font-style: italic;
 }
+.project img {
+    max-width: 200%;
+    max-height: 100%;
+    object-fit: cover;
+}
 
 .values {
     background-color: var(--boks-farve);
@@ -103,8 +108,9 @@ header nav a:hover {
 }
 
 .values h2 {
-    font-size: 24px;
+    font-size: 30px;
     margin-bottom: 20px;
+    color: var(--main-color);
 }
 
 .values-grid {
