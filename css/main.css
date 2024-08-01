@@ -1,8 +1,10 @@
 :root{
     --main-color:#00523D;
+    --box-color:#fff9eb;
     --CTA:#FFC53A;
     --txt-on-dark:#EBFFFE;
     --txt-on-white:#000000;
+    --line-heigt:2px;
 
 }
 body{
